@@ -1,0 +1,4 @@
+ChromeDriver=C:\\Users\\Reverside\\eclipse-workspace\\AssessmentProject\\Configuration\\chromedriver.exe
+URL=http://www.way2automation.com/angularjs-protractor/webtables/ 
+NameOnList=Molebogeng
+ExcelPath=C:\\Users\\Reverside\\eclipse-workspace\\AssessmentProject\\src\\test\\java\\TestData\\ExcelData.xlsx

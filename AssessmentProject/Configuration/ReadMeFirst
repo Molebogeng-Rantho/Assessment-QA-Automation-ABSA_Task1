@@ -1,0 +1,9 @@
+in eclipse IDE
+select Help-> install new software->enter link  http://download.eclipse.org/technology/m2e/releases/.
+-add maven plugin
+-in the dom.xml
+if the dependencies are not present
+-add selenium dependency
+-add testng dependency
+-add junit dependency
+-add maven dependency

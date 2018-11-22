@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [testNG.NewTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="testNG.NewTest">
+        <methods>
+          <include name="addusers"/>
+          <include name="readexcellfile"/>
+          <include name="setup"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- testNG.NewTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [testNG.NewTest] -->
