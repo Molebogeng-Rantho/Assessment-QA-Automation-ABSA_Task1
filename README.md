@@ -10,6 +10,7 @@ for task 2
 -click on open file and open the project assessmentProject
 -there are maven dependencies in the pom.xml file in the test-output folder 
 -which will enable to run the project
+-there is a configuration folder where the excel path can be changed and the chromedriver path can be changed
 -should they not be available
 -add the following dependencies
 <dependencies>			
